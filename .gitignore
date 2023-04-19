@@ -1,0 +1,9 @@
+node_modules/
+output/
+chunks/
+recordings/
+text/
+*.wav
+*.txt
+.idea/
+.DS_Store
